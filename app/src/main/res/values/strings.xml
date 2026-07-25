@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Webstore-Android-Client</string>
+    <string name="home_page_navigation">home</string>
+    <string name="RATING_LABEL">Рейтинг над: %1$s</string>
+    <string name="UPDATE_REVIEW_BUTTON">Обнови ревю</string>
+    <string name="POST_REVIEW_BUTTON">Добавяне на ревю</string>
+</resources>
